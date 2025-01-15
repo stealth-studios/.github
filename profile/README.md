@@ -12,9 +12,10 @@ StealthSDK is fully open source and ready for you to use! Check out our [compreh
 
 ## 📦 Repositories
 
-### Core SDK
+### Core
 
 - 🛠️ [sdk-core](https://github.com/stealth-studios/sdk-core) - The main StealthSDK engine
+- 📖 [sdk-docs](https://github.com/stealth-studios/sdk-docs) - Documentation
 
 ### Client Libraries
 
