@@ -1,12 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <img src="../static/eliza-rblx.png" alt="StealthSDK Banner" width="100%" />
+</div>
 
-<!--
+# StealthSDK
 
-**Here are some ideas to get you started:**
+> The next generation of AI agents in gaming. Seamlessly deploy sophisticated intelligences into dynamic game worlds.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🚀 Getting Started
+
+StealthSDK is fully open source and ready for you to use! Check out our [comprehensive documentation](https://google.com) to begin building intelligent AI agents for your games.
+
+## 📦 Repositories
+
+### Core SDK
+
+- 🛠️ [sdk-core](https://github.com/stealthstudios/sdk-core) - The main StealthSDK engine
+
+### Client Libraries
+
+- 🎮 [sdk-client-luau](https://github.com/stealthstudios/sdk-client-luau) - Roblox/Luau client
+- 🌐 [sdk-client-ts](https://github.com/stealthstudios/sdk-client-ts) - TypeScript/JavaScript client
+
+### Frameworks
+
+- 📚 [sdk-framework-basic](https://github.com/stealthstudios/sdk-framework-basic) - Basic implementation framework
+
+### Database Adapters
+
+- 🗄️ [sdk-adapter-postgres](https://github.com/stealthstudios/sdk-adapter-postgres) - PostgreSQL database adapter
