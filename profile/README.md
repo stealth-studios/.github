@@ -14,17 +14,17 @@ StealthSDK is fully open source and ready for you to use! Check out our [compreh
 
 ### Core SDK
 
-- 🛠️ [sdk-core](https://github.com/stealthstudios/sdk-core) - The main StealthSDK engine
+- 🛠️ [sdk-core](https://github.com/stealth-studios/sdk-core) - The main StealthSDK engine
 
 ### Client Libraries
 
-- 🎮 [sdk-client-luau](https://github.com/stealthstudios/sdk-client-luau) - Roblox/Luau client
-- 🌐 [sdk-client-ts](https://github.com/stealthstudios/sdk-client-ts) - TypeScript/JavaScript client
+- 🎮 [sdk-client-luau](https://github.com/stealth-studios/sdk-client-luau) - Roblox/Luau client
+- 🌐 [sdk-client-ts](https://github.com/stealth-studios/sdk-client-ts) - TypeScript/JavaScript client
 
 ### Frameworks
 
-- 📚 [sdk-framework-basic](https://github.com/stealthstudios/sdk-framework-basic) - Basic implementation framework
+- 📚 [sdk-framework-basic](https://github.com/stealth-studios/sdk-framework-basic) - Basic implementation framework
 
 ### Database Adapters
 
-- 🗄️ [sdk-adapter-postgres](https://github.com/stealthstudios/sdk-adapter-postgres) - PostgreSQL database adapter
+- 🗄️ [sdk-adapter-postgres](https://github.com/stealth-studios/sdk-adapter-postgres) - PostgreSQL database adapter
