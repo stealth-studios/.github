@@ -28,4 +28,5 @@ StealthSDK is fully open source and ready for you to use! Check out our [compreh
 
 ### Database Adapters
 
-- 🗄️ [sdk-adapter-postgres](https://github.com/stealth-studios/sdk-adapter-postgres) - PostgreSQL database adapter
+- 🐘 [sdk-adapter-postgres](https://github.com/stealth-studios/sdk-adapter-postgres) - PostgreSQL database adapter
+- 🗄️ [sdk-adapter-sqlite](https://github.com/stealth-studios/sdk-adapter-sqlite) - SQLite database adapter
