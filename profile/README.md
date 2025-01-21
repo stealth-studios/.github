@@ -25,6 +25,7 @@ StealthSDK is fully open source and ready for you to use! Check out our [compreh
 ### Frameworks
 
 - 📚 [sdk-framework-basic](https://github.com/stealth-studios/sdk-framework-basic) - Basic implementation framework
+- 🧠 [sdk-framework-eliza](https://github.com/stealth-studios/sdk-framework-eliza) - Framework using [eliza](https://github.com/elizaos/eliza) for more complex conversations
 
 ### Database Adapters
 
