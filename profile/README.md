@@ -8,7 +8,7 @@
 
 ## 🚀 Getting Started
 
-StealthSDK is fully open source and ready for you to use! Check out our [comprehensive documentation](https://google.com) to begin building intelligent AI agents for your games.
+StealthSDK is fully open source and ready for you to use! Check out our [comprehensive documentation](https://docs.stealthsdk.com/) to begin building intelligent AI agents for your games.
 
 ## 📦 Repositories
 
